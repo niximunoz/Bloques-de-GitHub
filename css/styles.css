@@ -1,0 +1,37 @@
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    gap: 20px;
+}
+.seccion-1{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+}
+.seccion-2{
+    background-color: rosybrown;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 100px;
+}
+.seccion-3{
+    background-color: royalblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+}
+img{
+    height: 200px;
+    padding: 10px;
+}
+.titulo{
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border-top: 2px solid black;
+}
